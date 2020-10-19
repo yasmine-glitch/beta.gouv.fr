@@ -2,7 +2,7 @@
 roles: Chargé·e de déploiement
 startup: RDV-Solidarités
 open: true
-title: Chargé·e de déploiement
+title: L’équipe de RDv-Solidarités cherche un(e) chargé(e) de déploiement
 ---
 ## Le produit
 RDV-Solidarités est un outil de prise de RDV en ligne fondé par un consortium de 11 départements en partenariat avec beta.gouv.fr et la Banque des Territoires. Il a été développé pour répondre aux problématiques des services des solidarités : 
