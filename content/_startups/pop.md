@@ -1,7 +1,7 @@
 ---
 title: Plateforme Ouverte du Patrimoine
 mission: Valoriser notre patrimoine culturel auprès du plus grand nombre
-incubator: dinum
+incubator: culture
 owner: Ministère de la Culture
 sponsors: 
     - name: Direction générale des patrimoines
