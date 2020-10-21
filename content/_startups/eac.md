@@ -7,7 +7,7 @@ sponsors:
       acronym:
       domaine_ministeriel: spm # culture
       type: administration-centrale
-incubator: dinum
+incubator: culture
 events:
   - name: end
     date: 2019-12-01
