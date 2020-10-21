@@ -7,7 +7,7 @@ sponsors:
       domaine_ministeriel: culture
       type: administration-centrale
 
-incubator: dinum
+incubator: culture
 phases:
   - name: investigation
     start: 2017-12-01
