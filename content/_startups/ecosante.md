@@ -8,8 +8,8 @@ sponsors:
       domaine_ministeriel: affaires-sociales
       type: administration-centrale
 incubator: dinum
-link: https://betagouv.github.io/ecosante/index.html
-repository: null
+link: https://ecosante.beta.gouv.fr/
+repository: https://github.com/betagouv/ecosante/
 contact: ecosante@data.gouv.fr
 stats_url: null
 stats: false
