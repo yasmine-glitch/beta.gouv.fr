@@ -1,6 +1,6 @@
 ---
 fullname: Laure ENJELVIN
-role: Intraprenerur
+role: Intrapreneure
 missions:
   - start: 2020-12-01
     end: 2023-12-01
