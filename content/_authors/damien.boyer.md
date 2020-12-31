@@ -5,7 +5,7 @@ github: dameofr
 link:
 missions: 
   - start: 2020-05-01 
-    end: 2020-12-31 
+    end: 2021-03-31 
     status: independent
     employer: education nationale
 startups: 
